@@ -3,7 +3,7 @@
 Technologies used:
 - C# / Razor Pages (ServerSide rendering)
 - C# WebAPI 
-- Jquery
+- Jquery (debatable)
 - Bootstrap
 
 Description:
